@@ -1,9 +1,9 @@
-title: GH-tfuser
-github_username:  tfuser
+title: GH-tfuser titleleiste
+#github_username:  tfuser
 
-markdown:  kramdown
-gems:  - jekyll-feed
+#markdown:  kramdown
+#gems:  - jekyll-feed
 
-exclude:  - Gemfile
-          - Gemfile.lock
+#exclude:  - Gemfile
+#          - Gemfile.lock
           
