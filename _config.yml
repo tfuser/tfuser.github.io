@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: GH-tfuser titleleiste
+description: Das ist die Beschreibung für meine Seite tfuser
+
 #github_username:  tfuser
 
 #markdown:  kramdown
